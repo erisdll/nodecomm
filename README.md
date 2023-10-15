@@ -3,7 +3,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+An e-commerce solution using TypeScript and Nest.js.
+Main Stack: TypeScript, Nest.js, PostgreSQL, GraphQL, OAuth, Passport.js, Jest
 
 ## Installation
 
